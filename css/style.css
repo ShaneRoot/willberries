@@ -60,7 +60,7 @@ body {
 }
 
 .slide-3 {
-  background: #b4d1e0 url("/img/slide-image-3.png") no-repeat top right 30%;
+  background: #b4d1e0 url("../img/slide-image-3.png") no-repeat top right 30%;
 }
 .lable {
   background-color: #3dc47e;
@@ -147,22 +147,22 @@ body {
 }
 
 .card-1 {
-  background: #e3e2e3 url(/img/card-image-1.jpg) no-repeat top right;
+  background: #e3e2e3 url(/..img/card-image-1.jpg) no-repeat top right;
   background-size: cover;
 }
 .card-2 {
-  background: black url(/img/card-image-2.jpg) no-repeat top right;
+  background: black url(/..img/card-image-2.jpg) no-repeat top right;
   background-size: cover;
 }
 .card-3 {
   padding-top: 35px;
-  background: #ccd5e6 url(/img/card-image-3.png) no-repeat top right 10%;
+  background: #ccd5e6 url(/..img/card-image-3.png) no-repeat top right 10%;
   background-size: contain;
 }
 .card-4 {
   padding-top: 35px;
   padding-left: 25px;
-  background: #ff4f52 url(/img/card-image-4.png) no-repeat top right;
+  background: #ff4f52 url(/..img/card-image-4.png) no-repeat top right;
   background-size: contain;
 }
 .text-light {
