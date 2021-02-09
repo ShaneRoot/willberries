@@ -1,2 +1,6 @@
 # Willberries
-1st Proj
+Shane's first project
+###Языки использованы
+-HTML
+-CSS
+-JavaScript
